@@ -1,5 +1,7 @@
 # UTS_JSP_22110209_RifkyAA
-============================== DESKRIPSI =============================
+
+"Minta Star nya Puh (kalo berkenan sama project yang lain hehe)"
+
 # 🎬 Aplikasi Pemesanan Tiket Film (Java JSP)
 
 Aplikasi ini dibuat menggunakan teknologi **Java Server Pages (JSP)** dan **Servlet** sederhana. Aplikasi memungkinkan pengguna untuk melihat daftar film, memilih film, memesan tiket, dan melihat struk pemesanan.
@@ -66,6 +68,7 @@ ProjectFolder/
 - Akses `http://localhost:8080/NamaFolderProject`
 
 ---
+
 
 
 ---
