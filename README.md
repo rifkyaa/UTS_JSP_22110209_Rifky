@@ -1,4 +1,4 @@
-![ssIndex](https://github.com/user-attachments/assets/5bae2c3b-5ffe-4e9a-9954-03cbd1bba534)# UTS_JSP_22110209_RifkyAA
+# UTS_JSP_22110209_RifkyAA
 ============================== DESKRIPSI =============================
 # 🎬 Aplikasi Pemesanan Tiket Film (Java JSP)
 
