@@ -1,4 +1,4 @@
-# UTS_JSP_22110209_RifkyAA
+![ssIndex](https://github.com/user-attachments/assets/5bae2c3b-5ffe-4e9a-9954-03cbd1bba534)# UTS_JSP_22110209_RifkyAA
 ============================== DESKRIPSI =============================
 # 🎬 Aplikasi Pemesanan Tiket Film (Java JSP)
 
@@ -20,13 +20,13 @@ Aplikasi ini merupakan simulasi pemesanan tiket bioskop secara online. Fitur uta
 
 ## 📷 Screenshot Tampilan
 - Tampilan Index (Home)
-  ![ssIndex](https://github.com/user-attachments/assets/f896856f-a644-4110-b8b6-b1824c02a2c3)
-  
+  ![ssIndex](https://github.com/user-attachments/assets/86182885-4f62-4ebf-900b-b75aae6f1d69)
+
 - Tampilan Form
-  ![ssForm](https://github.com/user-attachments/assets/42726943-b92d-4eef-85dd-d0a089c3f3ff)
-  
+  ![ssForm](https://github.com/user-attachments/assets/020f2144-5aa9-4e3b-9a56-637c022772a1)
+
 - Tampilan Struk
-  ![ssStruk](https://github.com/user-attachments/assets/f2c22b60-0611-405a-9984-62840ca43ecd)
+  ![ssStruk](https://github.com/user-attachments/assets/48119e8b-78a6-4696-9d91-31e78c18973d)
 
 ---
 ## 🚀 Cara Menjalankan Aplikasi
@@ -41,14 +41,14 @@ Pastikan kamu sudah memiliki:
 
 ### 2. Struktur Folder
 ProjectFolder/
-├── Web Pages/
-│ ├── index.jsp
-│ ├── formPesan.jsp
-│ ├── struk.jsp
-│ └── style.css
-├── Source Packages/
-│ └── classes/
-│ └── Film.java
+── Web Pages/
+  ── index.jsp
+  ── formPesan.jsp
+  ── struk.jsp
+  ── style.css
+── Source Packages/
+  ── classes/
+    ── Film.java
 
 
 > Pastikan `Film.java` berada di package `classes` dan sudah di-compile oleh NetBeans.
